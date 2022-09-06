@@ -1,0 +1,20 @@
+{
+  "name": "digitdegree",
+  "version": "1.0.0",
+  "description": "Let's define _digit degree_ of some positive integer as the number of times we need to replace this number with the sum of its digits until we get to a one digit number.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/digitDegree.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/digitDegree/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/digitDegree#readme"
+}
